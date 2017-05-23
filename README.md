@@ -19,3 +19,5 @@ Windows device portal
 VS2015 
 
 Azure iot hub
+
+Ms-iot/iot-walkthrough 
